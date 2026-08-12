@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+*.pem
+*.ppk
+
+k8s/backend-secret.yaml
+k8s/mysql-secret.yaml
